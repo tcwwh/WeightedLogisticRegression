@@ -1,0 +1,1 @@
+This project is to implement weighted logistic regression for binary and multinomial cases, as it is not directly implemented in sklearn or statsmodel. In addition, sklearn versions of logistic regression lack the various model diagnostic statistics such as AIC.  
